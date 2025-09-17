@@ -4,7 +4,7 @@ description: "十年IDC老兵实战经验，全面解析香港服务器选购陷
 keywords: ["香港服务器", "IDC", "线路对比", "机房选择", "高防服务器", "跨境电商"]
 ---
 
-# 香港服务器避坑指南：十年IDC老兵的经验分享  
+# [香港服务器避坑指南](https://www.hostifyx.com/zh/hk-server/)：十年IDC老兵的经验分享 [Telegram：HostifyX_Aaron](https://t.me/HostifyX_Aaron)
 
 ![SLA](https://img.shields.io/badge/SLA-99.9%25-green)  
 ![CN2直连](https://img.shields.io/badge/线路-CN2直连-blue)  
